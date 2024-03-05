@@ -6,7 +6,7 @@ const DottedDesign = () => {
       <Dotted />
 
       <div className="flex justify-center items-center gap-4">
-        <h1 className="text-[3.5rem] leading-4 font-semibold text-gray-200 antialiased">
+        <h1 className="text-5xl leading-4 font-semibold text-gray-200 antialiased">
           Next.js Auth
         </h1>
         <div className="size-10 rounded-full bg-sky-500" />
